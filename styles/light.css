@@ -13,11 +13,13 @@
   --article-title-color: #353430;
   --main-font: 'IBM Plex mono';
   --main-size: 18px;
-  --h1-size: clamp(7.25rem, 5.7694rem + 6.3174vw, 9.8125rem);
+  --h1-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
+  --h1-size-desktop: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
   --bold-font-weight: bold;
   --regular-font-weight: normal;
   --accent-color: #ff8dcb;
   --decorated-color: #353430;
+  --decorated-color-border: rgba(53, 52, 48, 0.4);
   --text-color: #353430;
   --visibility: none;
 }
